@@ -1,9 +1,9 @@
 {
-  "name": "Ye Olde Name ",
+  "name": "Ye-Olde",
   "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://yeolde.herokuapp.com/"
   },
   "description": "Ye Olde Names, created fresh daily.",
   "dependencies": {
