@@ -1,0 +1,40 @@
+<html>
+<head>
+  <title>Ye Olde Name Generator</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <link href='https://fonts.googleapis.com/css?family=Poiret+One' rel='stylesheet' type='text/css'>
+</head>
+  <body>
+    <h1>
+      Ye Olde Name Generator
+    </h1>
+
+    <div>
+    <button id="name"><img src="http://findicons.com/files/icons/2711/free_icons_for_windows8_metro/128/crown.png"></button>
+    <p class="name">
+      <span id="adjective"></span>
+      <span id="verb"></span>
+      <span id="noun"></span>
+      <span id="year"></span>
+    </p>
+    </div>
+
+
+
+    <br>
+    <h3>Submit Ye Olde Words!</h3>
+    <form id="submitWords">
+      <label>Status:</label><input type="text" name="adjective"><br>
+      <label>First Name:</label><input type="text" name="verb"><br>
+      <label>Last Name:</label><input type="text" name="noun"><br>
+      <input type="submit" value="Submit Words"/>
+    </form>
+
+    <p id='adjectiveRes'></p>
+    <p id='verbRes'></p>
+    <p id='nounRes'></p>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>

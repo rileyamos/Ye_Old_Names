@@ -1,0 +1,18 @@
+{
+  "name": "Ye Olde Name ",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "description": "Ye Olde Names, created fresh daily.",
+  "dependencies": {
+    "body-parser": "^1.12.4",
+    "express": "^4.13.3"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.11.0",
+    "grunt-jscs": "^1.5.0"
+  }
+}

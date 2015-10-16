@@ -1,0 +1,45 @@
+html{
+	font-family: 'Poiret One', cursive;
+}
+
+h1 {
+	font-size: 3.7em;
+}
+
+h2 {
+	font-size: 2em; 
+}
+
+h3 {
+	font-size: 1.3em;
+}
+
+.name {
+	font-size: 1.8em;
+	color: #006600;
+}
+
+div p {
+	display: inline-block;
+	margin-left: 50px;
+	margin-bottom: 50px;
+	border-bottom: 1px solid #000;
+}
+
+button {
+	width: 100px;
+	height: 110px; 
+	display: inline-block;
+}
+
+button:hover {
+	background-color: #FFD700;
+	border: 0px;
+}
+
+button img {
+	width: 100%;
+}
+
+
+
