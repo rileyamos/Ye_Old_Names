@@ -1,7 +1,5 @@
 # Ye_Olde_Name_Generator
 
-A repo for the Foundations II: JavaScript class at Code Fellows.
-
 https://yeolde.herokuapp.com/
 
 To play with this repo:
